@@ -61,3 +61,5 @@ document.getElementById('refresh').addEventListener('click', function (e) {
     e.preventDefault();   
     loadDelhi();   
 });   
+
+//nothing
