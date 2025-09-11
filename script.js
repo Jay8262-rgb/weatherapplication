@@ -59,4 +59,4 @@ document.getElementById('refresh').addEventListener('click', function (e) {
     loadDelhi();   
 });   
 
-//nothing
+
